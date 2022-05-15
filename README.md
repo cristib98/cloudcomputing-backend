@@ -8,7 +8,14 @@
 
 Prezentare: https://www.youtube.com/watch?v=n9BQldYATUs
 
-Heroku: https://recipe-api-cc-frontend.herokuapp.com 
+Heroku: https://recipe-api-cc-frontend.herokuapp.com
+
+Git:
+
+https://github.com/cristib98/cloudcomputing-frontend - **frontend**
+
+https://github.com/cristib98/cloudcomputing-backend - **backend**
+
 
 
   **Introducere**
