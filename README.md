@@ -6,7 +6,8 @@
 
   **Grupa 1117**
 
-Prezentare: https://www.youtube.com/watch?v=n9BQldYATUs 
+Prezentare: https://www.youtube.com/watch?v=n9BQldYATUs
+
 Heroku: https://recipe-api-cc-frontend.herokuapp.com 
 
 
